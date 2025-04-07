@@ -56,14 +56,5 @@ This capstone project was developed as part of our **Bachelor of Science in Info
 Special thanks to our adviser **Dr. Everly M. Chua** for her guidance, and to **Amsic Integrated School** for the opportunity to propose this network design solution.
 
 ---
-
-## 📂 Repository Contents
-
-- `/docs/` - Project documentation (PDFs, diagrams)  
-- `/simulation/` - Simulation files (`.pkt`, `.net`, config backups)  
-- `/reports/` - Performance test results, graphs, and analysis  
-
----
-
 Feel free to fork, explore, or learn from the project. For questions or collaborations, feel free to open an issue or contact me.
 
